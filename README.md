@@ -5,3 +5,5 @@ Software developer with skills in C#,SQL,TypeScript and JavaScript fields.
 
 Person with a high responsibility. Always looking forward to learn new stuff!
 
+Feel free to reach me out on
+[linkedin](https://www.linkedin.com/in/ivo-butkus/)
